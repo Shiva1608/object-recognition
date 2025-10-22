@@ -12,4 +12,5 @@ dependencies = [
     "numpy",
     "python-multipart",
     "pyttsx3>=2.99",
+    "python-dotenv>=1.1.1",
 ]
