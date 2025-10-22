@@ -10,5 +10,6 @@ dependencies = [
     "ultralytics",
     "pillow",
     "numpy",
-    "python-multipart"
+    "python-multipart",
+    "pyttsx3>=2.99",
 ]
